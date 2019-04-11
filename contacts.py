@@ -1,5 +1,3 @@
-# written by Gregory Cave on 20/06/2016
-# developed in the Python 3.1 programming environment
 
 import contact
 import pickle
