@@ -1,4 +1,3 @@
-
 import contact
 import pickle
 
